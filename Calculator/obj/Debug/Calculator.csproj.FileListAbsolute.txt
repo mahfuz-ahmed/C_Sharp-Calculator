@@ -1,0 +1,15 @@
+D:\BITM\.NET\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\BITM\.NET\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\BITM\.NET\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\BITM\.NET\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\BITM\.NET\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\BITM\.NET\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\BITM\.NET\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\BITM\.NET\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\BITM\ASP.NET_Class_Work\Class_Project\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\BITM\ASP.NET_Class_Work\Class_Project\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\BITM\ASP.NET_Class_Work\Class_Project\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\BITM\ASP.NET_Class_Work\Class_Project\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\BITM\ASP.NET_Class_Work\Class_Project\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\BITM\ASP.NET_Class_Work\Class_Project\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\BITM\ASP.NET_Class_Work\Class_Project\Calculator\Calculator\obj\Debug\Calculator.pdb
